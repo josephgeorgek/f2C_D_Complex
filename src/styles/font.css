@@ -1,0 +1,6 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OpenSansBold.ttf"); font-family : "Open Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OpenSansSemiBold.ttf"); font-family : "Open Sans"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OpenSansRegular.ttf"); font-family : "Open Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NotoSansSCMedium.ttf"); font-family : "Noto Sans SC"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/IBMPlexMonoRegular.ttf"); font-family : "IBM Plex Mono"; font-weight : 400;  }
